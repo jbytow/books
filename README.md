@@ -1,5 +1,5 @@
 # Bookr
-Books is a backend application developed for the purpose of learning Spring Boot/Rest API
+Books is a Rest API developed for the purpose of learning Spring Boot/Rest API
 
 ## Features
 * Create books
